@@ -28,7 +28,9 @@ I jokingly run a "fundraising startup" where my friends invest in my survival! �
 
 📬 Let’s Connect!
 
-[GitHub](Your GitHub Link) | [LinkedIn](Your LinkedIn Link) | [Email](Your Email)
+[GitHub]
+[LinkedIn]
+[Email]
 
 Always open to collaborations, ideas, and tech discussions. Let’s build something amazing together! 🚀
 
